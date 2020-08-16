@@ -1,5 +1,5 @@
 ## Welcome to GitHub Pages
-
+Got to [Home](https://github.com/Ashukm/NCBI_GutMicrobiome_Disease_Workflow/edit/gh-pages/Home.md)
 You can use the [editor on GitHub](https://github.com/Ashukm/NCBI_GutMicrobiome_Disease_Workflow/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
